@@ -146,19 +146,6 @@ Hello from Docker Flask App running inside a container!
 
 ---
 
-## Screenshots
-
-Add screenshots of:
-
-* Docker image build
-* Running container
-* docker ps output
-* Browser output
-
-Store screenshots inside the `screenshots/` folder.
-
----
-
 ## Learning Outcomes
 
 Through this project, I learned:
